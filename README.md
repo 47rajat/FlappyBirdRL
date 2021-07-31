@@ -1,4 +1,6 @@
 # FlappyBirdRL
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](./LICENSE)
+
 A Deep Q-Learning RL agent for playing the Flappy Bird game.
 
 ![flappy bird evaluation game play](./assets/flappy_bird.gif)
